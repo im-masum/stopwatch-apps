@@ -28,6 +28,7 @@ body {
     font-weight: 600;
 }
 
+
 .buttons {
     margin-top: 10px;
 }
@@ -50,7 +51,7 @@ body {
     background-color: #ffffff;
 }
 
-footer{
+footer {
     display: flex;
     width: 20%;
     padding: 10px;
